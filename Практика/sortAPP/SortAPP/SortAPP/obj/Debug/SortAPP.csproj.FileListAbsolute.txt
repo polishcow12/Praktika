@@ -1,0 +1,11 @@
+C:\Users\Вова\Desktop\sortAPP\SortAPP\SortAPP\bin\Debug\SortAPP.exe.config
+C:\Users\Вова\Desktop\sortAPP\SortAPP\SortAPP\bin\Debug\SortAPP.exe
+C:\Users\Вова\Desktop\sortAPP\SortAPP\SortAPP\bin\Debug\SortAPP.pdb
+C:\Users\Вова\Desktop\sortAPP\SortAPP\SortAPP\obj\Debug\SortAPP.csproj.AssemblyReference.cache
+C:\Users\Вова\Desktop\sortAPP\SortAPP\SortAPP\obj\Debug\SortAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вова\Desktop\sortAPP\SortAPP\SortAPP\obj\Debug\SortAPP.Form1.resources
+C:\Users\Вова\Desktop\sortAPP\SortAPP\SortAPP\obj\Debug\SortAPP.Properties.Resources.resources
+C:\Users\Вова\Desktop\sortAPP\SortAPP\SortAPP\obj\Debug\SortAPP.csproj.GenerateResource.cache
+C:\Users\Вова\Desktop\sortAPP\SortAPP\SortAPP\obj\Debug\SortAPP.csproj.CoreCompileInputs.cache
+C:\Users\Вова\Desktop\sortAPP\SortAPP\SortAPP\obj\Debug\SortAPP.exe
+C:\Users\Вова\Desktop\sortAPP\SortAPP\SortAPP\obj\Debug\SortAPP.pdb
